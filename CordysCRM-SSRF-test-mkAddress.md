@@ -146,4 +146,4 @@ Successful exploitation allows attackers to:
 
 ## References
 
-- https://github.com/1Panel-dev/CordysCRM
+- https://github.com/1Panel-dev/CordysCRM/issues/2686
