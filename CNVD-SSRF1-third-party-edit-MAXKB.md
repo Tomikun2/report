@@ -111,13 +111,15 @@ After sending the POC to the target server, the DNS log platform successfully re
 
 **Burp Suite POC Request:**
 
-![image-20260613234530877](C:\Users\27962\AppData\Roaming\Typora\typora-user-images\image-20260613234530877.png)
+<img width="831" height="288" alt="image-20260613234530877" src="https://github.com/user-attachments/assets/982383d1-9604-4b22-b557-292cf72d2381" />
+
 
 *The `mkAddress` parameter is set to a DNS log domain (`http://17e3a46c.log.dnslog.pp.ua.`)*
 
 **DNS Callback Received (Interactsh):**
 
-![image-20260613234548536](C:\Users\27962\AppData\Roaming\Typora\typora-user-images\image-20260613234548536.png)
+<img width="830" height="290" alt="image-20260613234548536" src="https://github.com/user-attachments/assets/c32ff5f5-62f7-4cc1-bd01-9ceed95794aa" />
+
 
 ### Impact
 
